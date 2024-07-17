@@ -44,3 +44,21 @@ The Face Detection Attendance System using ESP32 is a cutting-edge application o
 Things (IoT) and computer vision technologies. It combines the power of ESP32, a versatile
 microcontroller, and sophisticated facial recognition algorithms to create a seamless and accurate
 attendance management system.
+
+## SCHEMATIC DIAGRAM:
+
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/976f996e-eea5-49f3-9a7a-865709dc3bbd">
+
+
+## HARDWARE REQUIRED:
+
+1. ESP32 Camera Module
+2. Arduino Uno
+3. Connecting Wires
+4. USB - Power Cord
+5. Memory Card or Storage Card
+
+## CONCLUSION:
+
+Different classrooms may have different lighting, seating layouts, and atmosphere. There may also  be students with diverse facial expressions, hair styles, beards, spectacles, and so on. This approach can be adopted to improve the management of attendance and leaves. The system will save time, reduce the amount of work that the administration needs to do, replace stationery with electronic equipment, and minimize the quantity of human resource required for the purpose.
+
