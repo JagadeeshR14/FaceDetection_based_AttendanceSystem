@@ -45,7 +45,7 @@ Things (IoT) and computer vision technologies. It combines the power of ESP32, a
 microcontroller, and sophisticated facial recognition algorithms to create a seamless and accurate
 attendance management system.
 
-## SCHEMATIC DIAGRAM :
+## CONNECTIONS AND DIAGRAMS :
 
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/976f996e-eea5-49f3-9a7a-865709dc3bbd">
 
