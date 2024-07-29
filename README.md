@@ -1,6 +1,6 @@
 # Face Detection based Attendance System
 
-## ABSTRACT:
+## ABSTRACT :
 
 The proposal is mainly about the face detection-based attendance system which overcomes manual
 method of taking attendance, reduces the time to take attendance and avoids proxy. Unlike other
@@ -16,7 +16,7 @@ images in the database and marks their attendance
 
 Keywords: Face Recognition, Face Detection, ESP32 camera module.
 
-## INTRODUCTION:
+## INTRODUCTION :
 
 In today's fast-paced world, managing attendance efficiently is a crucial task for organizations,
 institutions, and businesses. Traditional attendance systems, such as manual registers or swipe
@@ -45,12 +45,13 @@ Things (IoT) and computer vision technologies. It combines the power of ESP32, a
 microcontroller, and sophisticated facial recognition algorithms to create a seamless and accurate
 attendance management system.
 
-## SCHEMATIC DIAGRAM:
+## SCHEMATIC DIAGRAM :
 
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/976f996e-eea5-49f3-9a7a-865709dc3bbd">
 
+There are the other Diagrams like Block diagram and more. Click [here](Diagram) to explore.
 
-## HARDWARE REQUIRED:
+## HARDWARE REQUIRED :
 
 1. ESP32 Camera Module
 2. Arduino Uno
@@ -58,7 +59,11 @@ attendance management system.
 4. USB - Power Cord
 5. Memory Card or Storage Card
 
-## CONCLUSION:
+## RESULT :
+![Camera Feature](https://github.com/user-attachments/assets/04a62761-386d-48ce-b296-7a360b048ead)
+
+Click [here](Result) to explore all the screenshot Results/Outputs of the Project.
+
+## CONCLUSION :
 
 Different classrooms may have different lighting, seating layouts, and atmosphere. There may also  be students with diverse facial expressions, hair styles, beards, spectacles, and so on. This approach can be adopted to improve the management of attendance and leaves. The system will save time, reduce the amount of work that the administration needs to do, replace stationery with electronic equipment, and minimize the quantity of human resource required for the purpose.
-
